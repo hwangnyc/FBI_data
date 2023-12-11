@@ -6,7 +6,7 @@ library(dplyr)
 states <- c("AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DE", "FL", "GA", "HI", "ID", "IL", "IN", "IA", "KS", "KY", "LA", "ME", "MD", "MA", "MI", "MN", "MS", "MO", "MT", "NE", "NV", "NH", "NJ", "NM", "NY", "NC", "ND", "OH", "OK", "OR", "PA", "RI", "SC", "SD", "TN", "TX", "UT", "VT", "VA", "WA", "WV", "WI", "WY", "PR", "VI")
 
 # Your API key
-api_key <- "ATbr073I6fRVyYorrH9Blq5TefFLPVrITYFXSzqp"
+api_key <- "YOUR API KEY HERE"
 
 # Function to fetch data for a given state
 fetch_state_data <- function(state) {

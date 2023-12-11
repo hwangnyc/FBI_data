@@ -6,7 +6,7 @@ library(dplyr)
 pd_ori<-unique(c(state_df$ori))
 
 # Your API key
-api_key <- "ATbr073I6fRVyYorrH9Blq5TefFLPVrITYFXSzqp"
+api_key <- "Your API KEY HERE"
 
 # Function to fetch data for a given pd_ori value
 fetch_pd_data <- function(pd_ori_value) {
